@@ -1,23 +1,33 @@
-### Hi — I build local-first tools for AI agents
+### I build open-source infrastructure for controllable AI agents.
 
-| Project | What | Links |
-|---------|------|--------|
-| **[Tollgate](https://github.com/landjunge/tollgate)** | Safety layer for AI agents — **Protect · Route · Prove** (budgets, tool-loop stops, failover, chaos DR) | [Site](https://landjunge.github.io/tollgate/) · [Repo](https://github.com/landjunge/tollgate) |
-| **[Gnom-Hub](https://github.com/landjunge/gnom-hub-v1)** | Local multi-agent desk — brainstorm freely, **Execute** on purpose | [Site](https://landjunge.github.io/gnom-hub-v1/) · [Repo](https://github.com/landjunge/gnom-hub-v1) |
+**Context → Execution → Credentials → Network**
+
+AI agents are becoming autonomous. The missing infrastructure is control.
+
+These are **separate products** — experiments on one problem, not a merged stack.
+
+| Layer | Project | One line |
+|---|---|---|
+| Context | **[ThreadDesk](https://github.com/landjunge/threaddesk)** | Persistent threads. Stores context. Never executes. |
+| Execution | **[Gnom-Hub-V1](https://github.com/landjunge/gnom-hub-v1)** | Local multi-agent desk. Brainstorm freely. Execute on purpose. |
+| Credentials | **[4AllPass](https://github.com/landjunge/4AllPass)** | Agents need access. They don't need your secrets. |
+| Network / Safety | **[Tollgate](https://github.com/landjunge/tollgate)** | Safety layer between agents and the internet. Protect · Route · Prove. |
 
 ```text
-You / n8n / agents
-        │
-        ▼
-   GNOM-HUB desk     brainstorm → Execute
-        │
-        ▼
-    TOLLGATE         Protect · Route · Prove
-        │
-   LLMs / tools / search
+ThreadDesk      context / work / threads
+     ↓
+Gnom-Hub-V1     execution
+     ↓
+4AllPass        credentials  “May I access?”
+     ↓
+Tollgate        network / cost / safety  “May I act?”
 ```
 
-- Ecosystem: https://landjunge.github.io/tollgate/ecosystem.html  
-- Gist: https://gist.github.com/landjunge/ce4190deb6536cc6134c767f500c4dc9  
+I'm exploring what infrastructure AI agents need to become useful autonomous workers without becoming uncontrollable.
+
+- Tollgate: [site](https://landjunge.github.io/tollgate/) · [repo](https://github.com/landjunge/tollgate)
+- Gnom-Hub-V1: [site](https://landjunge.github.io/gnom-hub-v1/) · [repo](https://github.com/landjunge/gnom-hub-v1)
+- 4AllPass: [repo](https://github.com/landjunge/4AllPass) · [demo](https://github.com/landjunge/4AllPass/blob/main/docs/two-minute-demo.md)
+- ThreadDesk: [repo](https://github.com/landjunge/threaddesk)
 
 Feedback welcome.
