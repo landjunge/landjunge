@@ -2,7 +2,17 @@
 
 **System Designer & Product Architect — building understandable, controllable systems with AI as a technical partner.**
 
-[netzwerkpunkt.de](https://netzwerkpunkt.de/) is the public home for my projects.
+## Netzwerkpunkt
+
+**[netzwerkpunkt.de](https://netzwerkpunkt.de/)** is the public home for my projects. Each product has its own site and repository.
+
+| Project | Product site | Source | Responsibility |
+|---|---|---|---|
+| **ThreadDesk** | [threaddesk.netzwerkpunkt.de](https://threaddesk.netzwerkpunkt.de/) | [GitHub](https://github.com/landjunge/threaddesk) | Persistent context, threads, files and decisions. Stores work; never executes it. |
+| **gnom-hub-v1** | [gnom-hub-v1.netzwerkpunkt.de](https://gnom-hub-v1.netzwerkpunkt.de/) | [GitHub](https://github.com/landjunge/gnom-hub-v1) | Local multi-agent desk. Brainstorm freely; execute deliberately. |
+| **4AllPass** | [4allpass.netzwerkpunkt.de](https://4allpass.netzwerkpunkt.de/) | [GitHub](https://github.com/landjunge/4AllPass) | Local-first credential vault with explicit Allow/Deny boundaries. |
+| **Tollgate** | [tollgate.netzwerkpunkt.de](https://tollgate.netzwerkpunkt.de/) | [GitHub](https://github.com/landjunge/tollgate) | Independent safety, policy, budget and network-control layer for agents. |
+| **Agent-X-Files** | [agent-x-files.netzwerkpunkt.de](https://agent-x-files.netzwerkpunkt.de/) | Private repository | Standalone detective-game experiment: you investigate; AI assists. |
 
 ## What I work on
 
@@ -11,14 +21,6 @@ I explore a practical question:
 > How can people use AI agents productively without losing context, control, credentials, or responsibility?
 
 The answer is not one opaque super-system. I build **separate tools with clear boundaries and clean interfaces**. Each project must remain useful on its own.
-
-| Project | Core question | Role |
-|---|---|---|
-| **[ThreadDesk](https://github.com/landjunge/threaddesk)** | What is the current state? | Persistent context, threads, files and decisions. Stores work; does not execute it. |
-| **[Gnom-Hub-V1](https://github.com/landjunge/gnom-hub-v1)** | When should work execute? | Local multi-agent desk. Brainstorm freely; execute deliberately. |
-| **[4AllPass](https://github.com/landjunge/4AllPass)** | May this app or agent access a secret? | Local-first, self-hosted credential vault with explicit Allow/Deny boundaries. |
-| **[Tollgate](https://github.com/landjunge/tollgate)** | May this action happen now? | Independent safety, policy, budget and network-control layer for agents. |
-| **[Agent-X-Files](https://github.com/landjunge/Agent-X-Files)** | Can AI assist without taking over? | Standalone detective-game experiment: you investigate; AI assists. |
 
 These projects are related by principles, not fused into a monolith:
 
@@ -42,6 +44,8 @@ These are actively developed projects and experiments, not finished enterprise p
 ## Deutsch
 
 Ich entwickle Systeme und Produkte mit KI als technischem Partner. Meine Stärke liegt darin, Probleme zu erkennen, sie in eigenständige Werkzeuge zu zerlegen und klare Grenzen sowie Schnittstellen festzulegen. Vision, Prioritäten und Architekturentscheidungen kommen von mir; KI unterstützt bei Umsetzung, Tests und Dokumentation.
+
+Alle Projekte sind über **[netzwerkpunkt.de](https://netzwerkpunkt.de/)** und ihre eigenen Subdomains erreichbar. Die Werkzeuge bleiben eigenständig und können über saubere Schnittstellen zusammenspielen.
 
 Ich bin kein klassischer Softwareentwickler und kein Security-Spezialist. Deshalb sollen Code, Annahmen und Sicherheitsgrenzen offen überprüfbar sein.
 
