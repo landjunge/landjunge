@@ -10,7 +10,7 @@
 |---|---|---|---|
 | **ThreadDesk** | [threaddesk.netzwerkpunkt.de](https://threaddesk.netzwerkpunkt.de/) | [GitHub](https://github.com/landjunge/threaddesk) | Persistent context, threads, files and decisions. Stores work; never executes it. |
 | **gnom-hub-v1** | [gnom-hub-v1.netzwerkpunkt.de](https://gnom-hub-v1.netzwerkpunkt.de/) | [GitHub](https://github.com/landjunge/gnom-hub-v1) | Local multi-agent desk. Brainstorm freely; execute deliberately. |
-| **4AllPass** | [4allpass.netzwerkpunkt.de](https://4allpass.netzwerkpunkt.de/) | [GitHub](https://github.com/landjunge/4AllPass) | Local-first credential vault with explicit Allow/Deny boundaries. |
+| **4AllPass** | [4allpass.netzwerkpunkt.de](https://4allpass.netzwerkpunkt.de/) | [GitHub](https://github.com/landjunge/4AllPass) | Local-first password manager. Autofill, zero-knowledge, agents only after Allow/Deny. |
 | **Tollgate** | [tollgate.netzwerkpunkt.de](https://tollgate.netzwerkpunkt.de/) | [GitHub](https://github.com/landjunge/tollgate) | Independent safety, policy, budget and network-control layer for agents. |
 | **Agent-X-Files** | [agent-x-files.netzwerkpunkt.de](https://agent-x-files.netzwerkpunkt.de/) | Private repository | Standalone detective-game experiment: you investigate; AI assists. |
 
