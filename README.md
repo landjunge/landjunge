@@ -37,7 +37,7 @@ Für öffentlich sichtbaren Code gilt die jeweilige Projektlizenz. Sichtbarkeit 
 
 ### Außerdem in Entwicklung
 
-- **KiraBridge:** speziell für Vibe Coding entwickelt. Du besprichst mit ChatGPT, was gebaut oder geändert werden soll. ChatGPT übergibt die Entwicklungsaufträge über KiraBridge an Codex oder Grok auf deinem Rechner. Codex und Grok können auch gemeinsam an einem Projekt arbeiten. Ausführung und Zugriffe unterliegen den eingerichteten Berechtigungen. Eine öffentliche Veröffentlichung und die eigene Projektseite unter `kirabridge.netzwerkpunkt.de` werden vorbereitet.
+- **KiraBridge:** speziell für Vibe Coding entwickelt. Du besprichst mit ChatGPT, was gebaut oder geändert werden soll. ChatGPT übergibt die Entwicklungsaufträge über KiraBridge an Codex oder Grok auf deinem Rechner. Codex und Grok können auch gemeinsam an einem Projekt arbeiten. Weitere CLI-Anbindungen sind geplant. Ausführung und Zugriffe unterliegen den eingerichteten Berechtigungen. Eine öffentliche Veröffentlichung und die eigene Projektseite unter `kirabridge.netzwerkpunkt.de` werden vorbereitet.
 - **Agent Authority:** Forschung zu Agentenidentität, Delegation, Prozessen und beobachteten Wirkungen. Das Entwicklungsrepository ist privat.
 - **KI-Hilfezentrum:** Hilfe, Bot-Anzeigen und Werkzeugkatalog unter **[ki-hilfezentrum.netzwerkpunkt.de](https://ki-hilfezentrum.netzwerkpunkt.de/)**. Das Entwicklungsrepository ist privat.
 - **Versteh-Mir:** untersucht, wie sich Verständnis vor der Umsetzung prüfen lässt. Das Entwicklungsrepository ist privat.
@@ -97,7 +97,7 @@ Publicly visible code is subject to each project's own license. Visibility alone
 
 ### Also in development
 
-- **KiraBridge:** built specifically for vibe coding. Discuss what to build or change with ChatGPT. ChatGPT passes development tasks through KiraBridge to Codex or Grok on your computer. Codex and Grok can also collaborate on the same project. Execution and access are governed by the configured permissions. A public release and a dedicated site at `kirabridge.netzwerkpunkt.de` are being prepared.
+- **KiraBridge:** built specifically for vibe coding. Discuss what to build or change with ChatGPT. ChatGPT passes development tasks through KiraBridge to Codex or Grok on your computer. Codex and Grok can also collaborate on the same project. Further CLI integrations are planned. Execution and access are governed by the configured permissions. A public release and a dedicated site at `kirabridge.netzwerkpunkt.de` are being prepared.
 - **Agent Authority:** research into agent identity, delegation, processes and observed effects. The development repository is private.
 - **KI-Hilfezentrum:** help, bot listings and a tool catalog at **[ki-hilfezentrum.netzwerkpunkt.de](https://ki-hilfezentrum.netzwerkpunkt.de/)**. The development repository is private.
 - **Versteh-Mir:** explores how to check understanding before implementation. The development repository is private.
