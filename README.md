@@ -39,7 +39,6 @@ Jedes Werkzeug hat seinen eigenen Zweck. Verbindungen zwischen den Projekten sol
 | **[4AllPass](https://github.com/landjunge/4AllPass)** | Lokal ausgerichtetes Passwortmanager-Projekt mit Desktop-Apps, Autofill und ausdrücklicher Zugriffsfreigabe. | [Projektseite](https://4allpass.netzwerkpunkt.de/) · [Desktop-Vorschau](https://github.com/landjunge/4AllPass/releases/tag/desktop) |
 | **[Gnom-Hub-V1](https://github.com/landjunge/gnom-hub-v1)** | Lokaler Arbeitsplatz für mehrere KI-Agenten; Gespräch und Arbeitsausführung bleiben getrennt. | [Projektseite](https://gnom-hub-v1.netzwerkpunkt.de/) · [Installation](https://github.com/landjunge/gnom-hub-v1#3--download-und-installation) |
 | **[KieselWesen](https://github.com/landjunge/kieselWesen)** | Interaktive lokale Umgebung: Ereignisse verändern eine innere Struktur, die in einem Live-Graphen sichtbar wird. | [Anleitung](https://github.com/landjunge/kieselWesen#readme) · [Mac-Download](https://github.com/landjunge/kieselWesen/releases/tag/aktuell) |
-| **[RocketEmpathie](https://github.com/landjunge/rocketempathie)** | Eigene Musik und Texte: Daniel Filipek mit Gesang und Texten, Sascha Bastian mit Gitarre und Gesang. | [Stücke und Projekt](https://github.com/landjunge/rocketempathie#readme) |
 
 Für öffentlich sichtbaren Code gilt die jeweilige Projektlizenz. Sichtbarkeit allein erlaubt keine Weiterverwendung.
 
@@ -112,7 +111,6 @@ Each tool has its own purpose. Connections between projects should preserve thos
 | **[4AllPass](https://github.com/landjunge/4AllPass)** | A local-first password-manager project with desktop apps, autofill and explicit access approval. | [Project site](https://4allpass.netzwerkpunkt.de/) · [Desktop preview](https://github.com/landjunge/4AllPass/releases/tag/desktop) |
 | **[Gnom-Hub-V1](https://github.com/landjunge/gnom-hub-v1)** | A local workspace for multiple AI agents, with conversation and work execution kept distinct. | [Project site](https://gnom-hub-v1.netzwerkpunkt.de/) · [Installation](https://github.com/landjunge/gnom-hub-v1#3--download-und-installation) |
 | **[KieselWesen](https://github.com/landjunge/kieselWesen)** | An interactive local environment where events change an internal structure visible in a live graph. | [README](https://github.com/landjunge/kieselWesen#readme) · [Mac download](https://github.com/landjunge/kieselWesen/releases/tag/aktuell) |
-| **[RocketEmpathie](https://github.com/landjunge/rocketempathie)** | Original music and lyrics: Daniel Filipek on vocals and lyrics, with Sascha Bastian on guitar and vocals. | [Songs and project](https://github.com/landjunge/rocketempathie#readme) |
 
 Publicly visible code is subject to each project's own license. Visibility alone does not grant permission to reuse it.
 
