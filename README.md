@@ -47,7 +47,7 @@ Für öffentlich sichtbaren Code gilt die jeweilige Projektlizenz. Sichtbarkeit 
 
 **In Vorbereitung · Vibe Coding im Gespräch steuern**
 
-speziell für Vibe Coding entwickelt. Du besprichst mit ChatGPT, was gebaut oder geändert werden soll. ChatGPT übergibt die Entwicklungsaufträge über KiraBridge an Codex oder Grok auf deinem Rechner. Codex und Grok können auch gemeinsam an einem Projekt arbeiten. So steuerst du Entwicklungsarbeit im Gespräch, ohne Aufträge und Ergebnisse ständig zwischen Chat und Terminal hin- und herzukopieren.
+KiraBridge ist speziell für Vibe Coding entwickelt. Du besprichst mit ChatGPT, was gebaut oder geändert werden soll. ChatGPT übergibt die Entwicklungsaufträge über KiraBridge an Codex oder Grok auf deinem Rechner. Codex und Grok können auch gemeinsam an einem Projekt arbeiten. So steuerst du Entwicklungsarbeit im Gespräch, ohne Aufträge und Ergebnisse ständig zwischen Chat und Terminal hin- und herzukopieren.
 
 Weitere CLI-Anbindungen sind geplant. Ausführung und Zugriffe unterliegen den eingerichteten Berechtigungen. Eine öffentliche Veröffentlichung und die eigene Projektseite unter `kirabridge.netzwerkpunkt.de` werden vorbereitet.
 
@@ -121,7 +121,7 @@ Publicly visible code is subject to each project's own license. Visibility alone
 
 **In preparation · Guide development through conversation**
 
-built specifically for vibe coding. Discuss what to build or change with ChatGPT. ChatGPT passes development tasks through KiraBridge to Codex or Grok on your computer. Codex and Grok can also collaborate on the same project. This lets you guide development through conversation without constantly copying tasks and results between chat and terminal.
+KiraBridge is built specifically for vibe coding. Discuss what to build or change with ChatGPT. ChatGPT passes development tasks through KiraBridge to Codex or Grok on your computer. Codex and Grok can also collaborate on the same project. This lets you guide development through conversation without constantly copying tasks and results between chat and terminal.
 
 Further CLI integrations are planned. Execution and access are governed by the configured permissions. A public release and a dedicated site at `kirabridge.netzwerkpunkt.de` are being prepared.
 
