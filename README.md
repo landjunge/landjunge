@@ -1,57 +1,73 @@
 # Daniel Filipek · landjunge
 
-**System Designer & Product Architect — building understandable, controllable systems with AI as a technical partner.**
+**System Designer & Product Architect**
 
-Public GitHub is only these six products plus this profile. Everything else is private.
+I design tools that help people work with AI while keeping context, control and responsibility.
 
-## Netzwerkpunkt
+**[Explore Netzwerkpunkt](https://netzwerkpunkt.de/) · [Public projects](#public-projects) · [Deutsch](#deutsch)**
 
-**[netzwerkpunkt.de](https://netzwerkpunkt.de/)** is the public home for my projects. Each product has its own site and repository.
+## What I build
 
-| Project | Product site | Source | Responsibility |
-|---|---|---|---|
-| **4AllPass** | [4allpass.netzwerkpunkt.de](https://4allpass.netzwerkpunkt.de/) | [GitHub](https://github.com/landjunge/4AllPass) | Local-first password manager. Autofill, zero-knowledge, agents only after Allow/Deny. |
-| **Tollgate** | [tollgate.netzwerkpunkt.de](https://tollgate.netzwerkpunkt.de/) | [GitHub](https://github.com/landjunge/tollgate) | Independent safety, policy, budget and network-control layer for agents. |
-| **gnom-hub-v1** | [gnom-hub-v1.netzwerkpunkt.de](https://gnom-hub-v1.netzwerkpunkt.de/) | [GitHub](https://github.com/landjunge/gnom-hub-v1) | Local multi-agent desk. Brainstorm freely; execute deliberately. |
-| **ThreadDesk** | [threaddesk.netzwerkpunkt.de](https://threaddesk.netzwerkpunkt.de/) | [GitHub](https://github.com/landjunge/threaddesk) | Persistent context, threads, files and decisions. Stores work; never executes it. |
-| **Versteh-Mir** | — | [GitHub](https://github.com/landjunge/versteh-mir) | Checks understanding (know / unsure / nothing) before anything is built. |
-| **Agent Authority Lab** | — | [GitHub](https://github.com/landjunge/agent-authority-lab) | Experimental composition monitor. Fake world only, no real secrets. |
+My projects address practical questions: How do you keep track of an AI project? Decide which actions an agent may take? Limit spending? Give access to credentials deliberately?
 
-## What I work on
+I turn these questions into tools with defined responsibilities:
 
-I explore a practical question:
+- **Context:** preserve decisions, files and the state of ongoing work.
+- **Control:** make execution, permissions and resource limits explicit.
+- **Local operation:** keep data on the user's device where practical.
+- **Evidence:** distinguish what was planned, attempted and actually demonstrated.
 
-> How can people use AI agents productively without losing context, control, credentials, or responsibility?
+Each tool has its own purpose. Connections between projects should preserve those boundaries.
 
-The answer is not one opaque super-system. I build **separate tools with clear boundaries and clean interfaces**. Each project must remain useful on its own.
+## Public projects
 
-These projects are related by principles, not fused into a monolith:
+| Project | What it does | Explore |
+|---|---|---|
+| **[ThreadDesk](https://github.com/landjunge/threaddesk)** | Keeps project context in persistent threads, notes, files and snapshots; supports deliberate handoffs. | [Project site](https://threaddesk.netzwerkpunkt.de/) · [Downloads](https://github.com/landjunge/threaddesk/releases/tag/v0.1.1rc1) |
+| **[Tollgate](https://github.com/landjunge/tollgate)** | Checks agent actions against policies and budgets; provides loop limits and decision records. | [Project site](https://tollgate.netzwerkpunkt.de/) · [Quickstart](https://github.com/landjunge/tollgate/blob/main/docs/QUICKSTART.md) |
+| **[4AllPass](https://github.com/landjunge/4AllPass)** | A local-first password-manager project with desktop apps, autofill and explicit access approval. | [Project site](https://4allpass.netzwerkpunkt.de/) · [Desktop preview](https://github.com/landjunge/4AllPass/releases/tag/desktop) |
+| **[Gnom-Hub-V1](https://github.com/landjunge/gnom-hub-v1)** | A local workspace for collaborating with multiple AI agents, with conversation and work execution kept distinct. | [Project site](https://gnom-hub-v1.netzwerkpunkt.de/) · [Installation](https://github.com/landjunge/gnom-hub-v1#3--download-und-installation) |
+| **[KieselWesen](https://github.com/landjunge/kieselWesen)** | An interactive local environment where events change an internal structure that can be explored in a live graph. | [README](https://github.com/landjunge/kieselWesen#readme) · [Mac download](https://github.com/landjunge/kieselWesen/releases/tag/aktuell) |
+| **[RocketEmpathie](https://github.com/landjunge/rocketempathie)** | Original music and lyrics: Daniel Filipek on vocals and lyrics, with Sascha Bastian on guitar and vocals. | [Songs and project](https://github.com/landjunge/rocketempathie#readme) |
 
-- **You decide** — no silent autopilot.
-- **Local first** — as little cloud dependency as practical.
-- **Clear responsibility** — context, execution, credentials and action control stay separate.
-- **Inspectable work** — specifications, tests, reviews and attempts to break assumptions are welcome.
+Publicly visible code is subject to each project's own license. Visibility alone does not grant permission to reuse it.
 
-## How I build
+## Also in development
 
-Product vision, priorities, system boundaries and architecture decisions come from me. AI is my technical partner for implementation, testing, research and documentation.
+- **KiraBridge:** a local desktop and agent gateway. A public release and a dedicated site at `kirabridge.netzwerkpunkt.de` are being prepared.
+- **Agent Authority:** research into agent identity, delegation, processes and observed effects. The development repository is private.
+- **KI-Hilfezentrum:** help, bot listings and a tool catalog at **[ki-hilfezentrum.netzwerkpunkt.de](https://ki-hilfezentrum.netzwerkpunkt.de/)**. The development repository is private.
+- **Versteh-Mir:** explores how to check understanding before implementation. The development repository is private.
 
-I am not presenting myself as a traditional software developer or security specialist. I focus on identifying problems, decomposing them into independent tools and defining how they should behave. The technical implementation must remain reviewable—especially when security is involved.
+## How I work
 
-## Honest project status
+I define the product idea, priorities, expected behavior and system boundaries. AI supports implementation, testing, research and documentation.
 
-These are actively developed projects and experiments, not finished enterprise products.
+My focus is product and system design. I do not present myself as a traditional software developer or a security specialist. Code, assumptions and claims need to be reviewable.
 
-**4AllPass is security-critical and has not yet received an independent third-party audit.** Tests, specifications and internal reviews are useful evidence, but they are not a substitute for an external audit. Do not store irreplaceable production secrets in it yet.
+**These projects are in development.** Check each project's README for its supported platforms, current release and known limitations.
+
+**4AllPass has not received an independent third-party security audit.** Internal tests and reviews do not replace one. Do not rely on it as the sole store for irreplaceable production credentials.
+
+## Feedback and contributions
+
+Useful feedback starts with a concrete example:
+
+- **Found a bug?** Open an issue in the relevant public repository with reproduction steps and version information. Remove credentials and personal data.
+- **Have a question or idea?** Use Discussions where enabled, or follow the project's contribution guidance.
+- **Want to contribute?** Check the project's license and contribution rules before proposing a change.
+- **Found a security problem?** Follow the project's security-reporting instructions and avoid posting sensitive details in a public issue.
+
+Independent tests, careful reviews and honest criticism are welcome.
 
 ## Deutsch
 
-Ich entwickle Systeme und Produkte mit KI als technischem Partner. Meine Stärke liegt darin, Probleme zu erkennen, sie in eigenständige Werkzeuge zu zerlegen und klare Grenzen sowie Schnittstellen festzulegen. Vision, Prioritäten und Architekturentscheidungen kommen von mir; KI unterstützt bei Umsetzung, Tests und Dokumentation.
+Ich entwickle Werkzeuge, mit denen Menschen bei der Arbeit mit KI den Überblick und die Kontrolle behalten: Kontext bewahren, Handlungen bewusst freigeben und Ergebnisse nachvollziehen.
 
-Alle Projekte sind über **[netzwerkpunkt.de](https://netzwerkpunkt.de/)** und ihre eigenen Subdomains erreichbar. Die Werkzeuge bleiben eigenständig und können über saubere Schnittstellen zusammenspielen.
+Produktidee, Prioritäten, gewünschtes Verhalten und Systemgrenzen kommen von mir. KI unterstützt bei Umsetzung, Tests, Recherche und Dokumentation. Mein Schwerpunkt ist Produkt- und Systemgestaltung.
 
-Öffentlich auf GitHub sind nur die sechs Produkte in der Tabelle plus dieses Profil. Alles andere bleibt privat.
+Die Projekte bleiben eigenständig. Die Tabelle oben führt zu den öffentlichen Repositories, Projektseiten und verfügbaren Downloads. Weitere Projekte werden privat entwickelt; ihre Nennung ist keine Veröffentlichung des Quellcodes.
 
-Ich bin kein klassischer Softwareentwickler und kein Security-Spezialist. Deshalb sollen Code, Annahmen und Sicherheitsgrenzen offen überprüfbar sein.
+**KiraBridge** wird zusammengeschrieben, mit großem **K** und **B**. Die eigene Projektseite unter `kirabridge.netzwerkpunkt.de` ist in Vorbereitung.
 
-**Feedback, Tests, Reviews und ehrliche Kritik sind willkommen.**
+**[netzwerkpunkt.de](https://netzwerkpunkt.de/)** ist der gemeinsame Einstieg. Rückmeldungen, unabhängige Tests und nachvollziehbare Verbesserungsvorschläge sind willkommen.
