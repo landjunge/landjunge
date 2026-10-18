@@ -54,7 +54,6 @@ Weitere CLI-Anbindungen sind geplant. Ausführung und Zugriffe unterliegen den e
 ### Weitere Projekte in Entwicklung
 - **Agent Authority:** Forschung zu Agentenidentität, Delegation, Prozessen und beobachteten Wirkungen. Das Entwicklungsrepository ist privat.
 - **KI-Hilfezentrum:** Hilfe, Bot-Anzeigen und Werkzeugkatalog unter **[ki-hilfezentrum.netzwerkpunkt.de](https://ki-hilfezentrum.netzwerkpunkt.de/)**. Das Entwicklungsrepository ist privat.
-- **Versteh-Mir:** untersucht, wie sich Verständnis vor der Umsetzung prüfen lässt. Das Entwicklungsrepository ist privat.
 
 ### Wie ich arbeite
 
@@ -128,7 +127,6 @@ Further CLI integrations are planned. Execution and access are governed by the c
 ### Other projects in development
 - **Agent Authority:** research into agent identity, delegation, processes and observed effects. The development repository is private.
 - **KI-Hilfezentrum:** help, bot listings and a tool catalog at **[ki-hilfezentrum.netzwerkpunkt.de](https://ki-hilfezentrum.netzwerkpunkt.de/)**. The development repository is private.
-- **Versteh-Mir:** explores how to check understanding before implementation. The development repository is private.
 
 ### How I work
 
