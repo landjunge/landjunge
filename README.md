@@ -9,6 +9,14 @@
 
 Ich entwickle Werkzeuge, mit denen Menschen bei der Arbeit mit KI den Überblick, die Kontrolle und die Verantwortung behalten.
 
+**Direkt zum passenden Einstieg**
+
+- **KI-Projekte organisieren:** [ThreadDesk herunterladen](https://github.com/landjunge/threaddesk/releases/tag/v0.1.1rc1).
+- **Agentenhandlungen und Budgets kontrollieren:** [Tollgate ausprobieren](https://github.com/landjunge/tollgate/blob/main/docs/QUICKSTART.md).
+- **Hilfe oder Werkzeuge suchen:** [KI-Hilfezentrum öffnen](https://ki-hilfezentrum.netzwerkpunkt.de/).
+
+[Alle öffentlichen Projekte](#öffentliche-projekte) · [KiraBridge kennenlernen](#kirabridge) · [Rückmeldungen und Beiträge](#rückmeldungen-und-beiträge)
+
 ### Woran ich arbeite
 
 Wie bleibt der Stand eines KI-Projekts erhalten? Welche Handlungen darf ein Agent ausführen? Wie lassen sich Ausgaben begrenzen und Zugänge bewusst freigeben?
@@ -35,9 +43,15 @@ Jedes Werkzeug hat seinen eigenen Zweck. Verbindungen zwischen den Projekten sol
 
 Für öffentlich sichtbaren Code gilt die jeweilige Projektlizenz. Sichtbarkeit allein erlaubt keine Weiterverwendung.
 
-### Außerdem in Entwicklung
+### KiraBridge
 
-- **KiraBridge:** speziell für Vibe Coding entwickelt. Du besprichst mit ChatGPT, was gebaut oder geändert werden soll. ChatGPT übergibt die Entwicklungsaufträge über KiraBridge an Codex oder Grok auf deinem Rechner. Codex und Grok können auch gemeinsam an einem Projekt arbeiten. So steuerst du Entwicklungsarbeit im Gespräch, ohne Aufträge und Ergebnisse ständig zwischen Chat und Terminal hin- und herzukopieren. Weitere CLI-Anbindungen sind geplant. Ausführung und Zugriffe unterliegen den eingerichteten Berechtigungen. Eine öffentliche Veröffentlichung und die eigene Projektseite unter `kirabridge.netzwerkpunkt.de` werden vorbereitet.
+**In Vorbereitung · Vibe Coding im Gespräch steuern**
+
+speziell für Vibe Coding entwickelt. Du besprichst mit ChatGPT, was gebaut oder geändert werden soll. ChatGPT übergibt die Entwicklungsaufträge über KiraBridge an Codex oder Grok auf deinem Rechner. Codex und Grok können auch gemeinsam an einem Projekt arbeiten. So steuerst du Entwicklungsarbeit im Gespräch, ohne Aufträge und Ergebnisse ständig zwischen Chat und Terminal hin- und herzukopieren.
+
+Weitere CLI-Anbindungen sind geplant. Ausführung und Zugriffe unterliegen den eingerichteten Berechtigungen. Eine öffentliche Veröffentlichung und die eigene Projektseite unter `kirabridge.netzwerkpunkt.de` werden vorbereitet.
+
+### Weitere Projekte in Entwicklung
 - **Agent Authority:** Forschung zu Agentenidentität, Delegation, Prozessen und beobachteten Wirkungen. Das Entwicklungsrepository ist privat.
 - **KI-Hilfezentrum:** Hilfe, Bot-Anzeigen und Werkzeugkatalog unter **[ki-hilfezentrum.netzwerkpunkt.de](https://ki-hilfezentrum.netzwerkpunkt.de/)**. Das Entwicklungsrepository ist privat.
 - **Versteh-Mir:** untersucht, wie sich Verständnis vor der Umsetzung prüfen lässt. Das Entwicklungsrepository ist privat.
@@ -69,6 +83,14 @@ Unabhängige Tests, sorgfältige Reviews und ehrliche Kritik sind willkommen.
 
 I design tools that help people work with AI while keeping context, control and responsibility.
 
+**Find your starting point**
+
+- **Organize AI projects:** [Download ThreadDesk](https://github.com/landjunge/threaddesk/releases/tag/v0.1.1rc1).
+- **Control agent actions and budgets:** [Try Tollgate](https://github.com/landjunge/tollgate/blob/main/docs/QUICKSTART.md).
+- **Find help or tools:** [Visit KI-Hilfezentrum](https://ki-hilfezentrum.netzwerkpunkt.de/).
+
+[All public projects](#public-projects) · [Discover KiraBridge](#kirabridge-preview) · [Feedback and contributions](#feedback-and-contributions)
+
 ### What I build
 
 How do you preserve the state of an AI project? Decide which actions an agent may take? Limit spending and give access to credentials deliberately?
@@ -95,9 +117,15 @@ Each tool has its own purpose. Connections between projects should preserve thos
 
 Publicly visible code is subject to each project's own license. Visibility alone does not grant permission to reuse it.
 
-### Also in development
+### KiraBridge preview
 
-- **KiraBridge:** built specifically for vibe coding. Discuss what to build or change with ChatGPT. ChatGPT passes development tasks through KiraBridge to Codex or Grok on your computer. Codex and Grok can also collaborate on the same project. This lets you guide development through conversation without constantly copying tasks and results between chat and terminal. Further CLI integrations are planned. Execution and access are governed by the configured permissions. A public release and a dedicated site at `kirabridge.netzwerkpunkt.de` are being prepared.
+**In preparation · Guide development through conversation**
+
+built specifically for vibe coding. Discuss what to build or change with ChatGPT. ChatGPT passes development tasks through KiraBridge to Codex or Grok on your computer. Codex and Grok can also collaborate on the same project. This lets you guide development through conversation without constantly copying tasks and results between chat and terminal.
+
+Further CLI integrations are planned. Execution and access are governed by the configured permissions. A public release and a dedicated site at `kirabridge.netzwerkpunkt.de` are being prepared.
+
+### Other projects in development
 - **Agent Authority:** research into agent identity, delegation, processes and observed effects. The development repository is private.
 - **KI-Hilfezentrum:** help, bot listings and a tool catalog at **[ki-hilfezentrum.netzwerkpunkt.de](https://ki-hilfezentrum.netzwerkpunkt.de/)**. The development repository is private.
 - **Versteh-Mir:** explores how to check understanding before implementation. The development repository is private.
